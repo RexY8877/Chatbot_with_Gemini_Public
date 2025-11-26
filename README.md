@@ -1,4 +1,4 @@
-# My Corporate School – Customer Support Chatbot
+# Customer Support Chatbot - Powered by Gemini
 
 This project is a **customer support chatbot** for [My Corporate School](https://mycorporateschool.com).  
 It answers FAQs using a custom knowledge base and, when needed, falls back to **Google Gemini** via the `google-generativeai` SDK. The backend is powered by **Flask**, and the frontend is a floating chat widget you can embed in any website. 
